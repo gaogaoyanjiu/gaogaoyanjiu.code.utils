@@ -83,6 +83,6 @@ public class RandomNumberUtil {
     	//随机产生最大为18位long型数据,最大输入18
     	System.out.println(RandomNumberUtil.randomLong(18));
     	//随机产生在指定位数之间的long型数据,位数包括两边的值,1~18之间,min不能大于max 
-    	System.out.println(RandomNumberUtil.randomLong(1, 17));
+    	System.out.println(RandomNumberUtil.randomLong(1, 18));
 	}
 }  
