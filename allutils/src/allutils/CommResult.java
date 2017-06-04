@@ -1,12 +1,11 @@
 package allutils;
 
 /**
- * @Title: CommResult.java
- * @Package cn.tdtk.common.util
- * @Description: 通用的结果集，主要用于方法返回多个值
- * @author fuchao
- * @date 2013-3-25 上午09:13:44
+ * 
+ * 通用的结果集，主要用于方法返回多个值  工具类
+ * @author zhangliang
  * @version V1.0
+ * 
  */
 public class CommResult<B,R, M> {
 	private B isSuccess;

@@ -28,11 +28,8 @@ import org.apache.commons.io.FilenameUtils;
 import icoal.acl.impl.common.util.PropertiesFileUtil;
 
 /**
- * @Title: FileUploadDownUtil.java
- * @Package cn.tdtk.common.util
- * @Description: TODO文件上传下载工具
- * @author leixinming
- * @date 2013-3-23 上午10:39:28
+ * 文件上传下载工具
+ * @author zhangliang
  * @version V1.0
  */
 public final class FileUploadDownUtil {

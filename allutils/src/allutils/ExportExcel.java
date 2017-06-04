@@ -10,7 +10,13 @@ import org.apache.poi.hssf.usermodel.HSSFRow;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
-
+/**
+ * 
+ * Excel工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class ExportExcel {
 
 	/**

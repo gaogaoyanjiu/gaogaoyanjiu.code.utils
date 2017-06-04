@@ -2,10 +2,14 @@ package allutils.randomUtils;
 
 import org.apache.commons.lang.RandomStringUtils;  
 import org.apache.commons.lang.math.RandomUtils;  
-/** 
- * @author zhangliang 
- * @version RandomNumberUtil.java 2017-6-1
- */  
+
+/**
+ * 
+ * RandomNumberUtil工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class RandomNumberUtil {  
   
     private static final int[] prefix = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };  

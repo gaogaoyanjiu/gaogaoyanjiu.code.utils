@@ -4,11 +4,12 @@ package allutils.MD5utils;
 import java.security.MessageDigest;
 
 /**
- * MD5加密
- * @author lixin
- *
+ * 
+ * MD5加密工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
  */
-
 public final class MD5 {
 
 	private static String[] hexDigits = { "0", "1", "2", "3", "4", "5",

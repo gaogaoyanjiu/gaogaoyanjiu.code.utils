@@ -20,9 +20,9 @@ import org.apache.log4j.Logger;
 
 /**
  * 
- * @Description: 文件操作工具类
- * @author lidong
- * @date 2013-7-10 上午11:10:10
+ * 文件操作工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class FileUtil {

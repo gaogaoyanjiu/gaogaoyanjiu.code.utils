@@ -18,12 +18,13 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
 public class FileUtilExcl {
 	
-/**
- * 单个文件上传
- * @param is
- * @param fileName
- * @param filePath
- */
+	/**
+	 * 
+	 * 单个文件上传
+	 * @author zhangliang
+	 * @version V1.0
+	 * 
+	 */
 	public static void upFile(File uploadFile,String fileName,String filePath){
 		
 		FileOutputStream fos = null;

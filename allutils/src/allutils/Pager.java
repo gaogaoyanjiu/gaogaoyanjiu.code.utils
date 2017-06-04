@@ -7,9 +7,10 @@ import java.util.Map;
 import net.sf.json.JSONArray;
 
 /**
- * 分页公共类
  * 
- * @author lidong
+ * 分页工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class Pager {

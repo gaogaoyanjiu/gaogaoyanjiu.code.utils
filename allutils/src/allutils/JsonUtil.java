@@ -11,11 +11,12 @@ import org.apache.struts2.ServletActionContext;
 import icoal.acl.impl.hrm.model.SysCode;
 import net.sf.json.JSONArray;
 
+
 /**
  * 
- * @Description: Json公共类
- * @author lidong
- * @date 2013-10-22 下午2:35:14
+ * Json工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class JsonUtil {

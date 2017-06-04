@@ -7,6 +7,13 @@ import java.net.InetAddress;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 
+ * ping  IP 工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class PingUtils {
 	//public static final Logger logger = LoggerFactory.getLogger(OffLineJob.class);
 	public static final Map<String, String>  map = new HashMap<String ,String>();

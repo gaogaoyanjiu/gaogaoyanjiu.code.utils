@@ -8,13 +8,13 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Map;
 
+
 /**
- * @Title: privateUtil.java
- * @Package cn.tdtk.gtxy.om.conserveEnergy.action
- * @Description: TODO(描述该文件做什么)
- * @author zuomingyao
- * @date 2014-11-12 下午3:25:42
+ * 
+ * 描述该文件做什么 工具类
+ * @author zhangliang
  * @version V1.0
+ * 
  */
 @SuppressWarnings("deprecation")
 public class privateUtil {

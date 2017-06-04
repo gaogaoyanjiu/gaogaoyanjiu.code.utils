@@ -1,6 +1,14 @@
 package allutils;
 
-public class HexTo10To2 {
+
+/**
+ * 
+ * 进制转换工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
+	public class HexTo10To2 {
 		//10进制转化为16进制
 		public static String getToHexString(int str){
 			
@@ -144,4 +152,4 @@ public class HexTo10To2 {
 	        System.out.println("16进制字符串转 字节数组:"+ss);
 	        
 		}        
-}
+	}

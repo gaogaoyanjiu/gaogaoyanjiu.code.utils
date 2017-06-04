@@ -9,9 +9,10 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * 常用日历操作辅助类
  * 
- * @author lidong
+ * 常用日历操作辅助工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class CalendarUtil {

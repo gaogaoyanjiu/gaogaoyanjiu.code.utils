@@ -7,6 +7,13 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * 
+ * DateTransfer 工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class DateTransfer {
 
 	public static String yearMonthDate(int year, int month) {

@@ -5,9 +5,11 @@ import java.util.UUID;
 import sun.security.util.BigInt;
 
 /**
- * UUID随机数和进制转换
- * @author Administrator
- *
+ * 
+ * UUID随机数工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
  */
 public class UUIDutils {
 /**

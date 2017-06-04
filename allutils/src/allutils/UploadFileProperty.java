@@ -8,13 +8,12 @@
 */ 
 package allutils;
 
-/**  
- * @Title: UploadFileProperty.java
- * @Package cn.tdtk.common.util
- * @Description: TODO上传文件属性
- * @author leixinming
- * @date 2013-3-24 下午04:19:11
- * @version V1.0  
+/**
+ * 
+ * 上传文件属性 工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
  */
 public class UploadFileProperty {
 	

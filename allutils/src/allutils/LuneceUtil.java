@@ -32,13 +32,12 @@ import org.apache.poi.xwpf.extractor.XWPFWordExtractor;
 
 import icoal.core.exceptions.BusinessException;
 
-
-
 /**
- * 建立索引与搜索
- * @author zhaojf
- * 2015-05-22
- *
+ * 
+ * 建立索引与搜索工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
  */
 public class LuneceUtil {
 	private static Analyzer analyzer = null;

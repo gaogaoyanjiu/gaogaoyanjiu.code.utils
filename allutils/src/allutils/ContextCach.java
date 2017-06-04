@@ -15,9 +15,9 @@ import icoal.core.exceptions.BusinessException;
 
 /**
  * 
- * @Description: 缓存处理
- * @author lidong
- * @date 2013-11-5 上午10:17:24
+ * 缓存处理 工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class ContextCach {

@@ -1,5 +1,12 @@
 package allutils;
 
+/**
+ * 
+ * Excel导入工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class ImportExcel {
 
 		

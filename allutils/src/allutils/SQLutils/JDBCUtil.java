@@ -6,9 +6,15 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ResourceBundle;
-
 import allutils.randomUtils.RandomNumberUtil;
 
+/**
+ * 
+ * JDBC工具类
+ * @author zhangliang
+ * @version V1.0
+ * 
+ */
 public class JDBCUtil {
 	//ctrl + shift + x  转成大写
 	//ctrl + shift + y  转成小写

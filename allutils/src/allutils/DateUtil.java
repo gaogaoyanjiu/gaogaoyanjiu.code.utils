@@ -5,12 +5,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @Title: DateUtil.java
- * @Package cn.tdtk.common.util
- * @Description: 日期工具类
- * @author leixinming
- * @date 2012-5-4 上午11:04:17
+ * 
+ * 日期工具类
+ * @author zhangliang
  * @version V1.0
+ * 
  */
 public class DateUtil {
 	/**

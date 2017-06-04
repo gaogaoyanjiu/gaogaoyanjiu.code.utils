@@ -2,9 +2,9 @@ package allutils;
 
 /**
  * 
- * @Description: 提示信息bean
- * @author lidong
- * @date 2013-10-16 下午3:02:39
+ * 提示信息bean工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class MessageBean {

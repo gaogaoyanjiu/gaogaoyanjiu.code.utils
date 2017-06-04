@@ -2,9 +2,9 @@ package allutils;
 
 /**
  * 
- * @Description: 常量类
- * @author lidong
- * @date 2013-10-12 下午12:00:03
+ * 常量 工具类
+ * @author zhangliang
+ * @version V1.0
  * 
  */
 public class Constant {
