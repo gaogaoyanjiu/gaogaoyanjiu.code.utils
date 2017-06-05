@@ -1,4 +1,4 @@
-package allutils;
+package allutils.dateutils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

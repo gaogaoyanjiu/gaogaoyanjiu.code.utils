@@ -1,4 +1,4 @@
-package allutils;
+package allutils.other;
 
 import java.io.BufferedReader;
 import java.io.IOException;

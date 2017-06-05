@@ -1,4 +1,4 @@
-package allutils;
+package allutils.constant;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.web.context.support.XmlWebApplicationContext;
 

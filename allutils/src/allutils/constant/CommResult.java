@@ -1,4 +1,4 @@
-package allutils;
+package allutils.constant;
 
 /**
  * 

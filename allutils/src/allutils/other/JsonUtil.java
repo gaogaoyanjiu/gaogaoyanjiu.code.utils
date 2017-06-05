@@ -1,4 +1,4 @@
-package allutils;
+package allutils.other;
 
 import java.io.IOException;
 import java.io.PrintWriter;

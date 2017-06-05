@@ -1,4 +1,4 @@
-package allutils;
+package allutils.constant;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

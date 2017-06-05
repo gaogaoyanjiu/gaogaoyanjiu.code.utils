@@ -19,7 +19,7 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.chart.renderer.category.BarRenderer3D;
 import org.jfree.data.category.DefaultCategoryDataset;
 
-import allutils.ReportBean;
+import allutils.constant.ReportBean;
 
 
 public class JFreeChartUtils {

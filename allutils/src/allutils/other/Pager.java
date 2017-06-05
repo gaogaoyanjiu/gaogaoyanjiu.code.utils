@@ -1,4 +1,4 @@
-package allutils;
+package allutils.other;
 
 import java.util.HashMap;
 import java.util.List;

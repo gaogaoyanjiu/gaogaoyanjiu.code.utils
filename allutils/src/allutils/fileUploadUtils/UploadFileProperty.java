@@ -6,7 +6,7 @@
 * @date 2013-3-24 下午04:19:11
 * @version V1.0  
 */ 
-package allutils;
+package allutils.fileUploadUtils;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package allutils;
+package allutils.fileUploadUtils;
 
 
 import java.io.File;
@@ -25,6 +25,9 @@ import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
 import org.apache.commons.io.FilenameUtils;
 
+import allutils.constant.CommResult;
+import allutils.dateutils.DateUtil;
+import allutils.other.JsonUtil;
 import icoal.acl.impl.common.util.PropertiesFileUtil;
 
 /**
