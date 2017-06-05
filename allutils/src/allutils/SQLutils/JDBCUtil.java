@@ -252,9 +252,11 @@ public class JDBCUtil {
 			Statement sts = conn.createStatement();//用于更新
 			ResultSet rs=null;
 			//执行查询
-			rs= getQuery(conn, st, rs, "select * from T_SPA_SAFE_STANDARD where STD_CODE='"+"lisi"+"'");
+			//rs= getQuery(conn, st, rs, "select * from T_SPA_SAFE_STANDARD where STD_CODE='"+"lisi"+"'");
+			rs= getQuery(conn, st, rs, "select * from T_SPA_SAFE_STANDARD ");
 			
 			//执行循环更新
+			int num =1;
 			while (rs.next()) {
 				
 				//String stdId=rs.getString(1);
@@ -263,7 +265,9 @@ public class JDBCUtil {
 				String stdcode=rs.getString(2);//获取code
 				System.out.println(stdId+"::"+stdcode);
 				long id = RandomNumberUtil.randomLong(18);//生成18位随机数
+				
 				update(conn, sts, "update T_SPA_SAFE_STANDARD set STD_ID='"+id+"' where STD_ID='"+stdId+"'");
+				//update(conn, sts, "update T_SPA_SAFE_STANDARD set STD_ID='"+num+++"' where STD_ID='"+stdId+"'");
 			}
 			//关闭资源
 			rs.close();
